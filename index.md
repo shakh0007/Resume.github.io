@@ -49,7 +49,7 @@
         <li class="middle">HTML</li>
         <li class="middle">CSS</li>
         <li class="middle">JQuery</li>
-        <li class="middle">Linex commands</li>
+        <li class="middle">Linux commands</li>
         <!--<li class="middle">Sql</li>-->
 </div>
 
